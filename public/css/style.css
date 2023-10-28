@@ -57,6 +57,14 @@ body {
   align-items: space-evenly;
 }
 
+.custom-icon1 {
+  color: black;
+}
+
+.custom-icon2 {
+  color: black;
+}
+
 /* Cards */
 .listing-card {
   border: none !important;
