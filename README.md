@@ -7,19 +7,21 @@ This project is a web application designed for users to showcase their propertie
 ## Table of Contents
 
 1. [Description](#description)
-2. [Features](#features)
-3. [Tech Stack](#tech-stack)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Database](#database)
-7. [Authentication and Authorization](#authentication-and-authorization)
-8. [Frontend](#frontend)
-9. [Error Handling](#error-handling)
-10. [Maps Integration](#maps-integration)
-11. [Cloudinary](#cloudinary)
-10. [Documentation](#documentation)
+2. [Website](#website)
+3. [Features](#features)
+4. [Tech Stack](#tech-stack)
+5. [Installation](#installation)
+6. [Usage](#usage)
+7. [Database](#database)
+8. [Authentication and Authorization](#authentication-and-authorization)
+9. [Frontend](#frontend)
+10. [Error Handling](#error-handling)
+11. [Maps Integration](#maps-integration)
+12. [Cloudinary](#cloudinary)
 
+ ## Website
 
+[Wanderlust](https://wanderlust-5pen.onrender.com/listings)
 
 ## Features
 
@@ -99,7 +101,4 @@ The application integrates Mapbox to display property locations on maps, enhanci
 
 ## Cloudinary 
 The project utilizes Cloudinary for image storage and management. Cloudinary offers a cloud-based solution for uploading, storing, optimizing, and delivering images and videos. It simplifies the process of handling media assets, ensuring fast and reliable image delivery for a seamless user experience.
-## Documentation
-
-[Wanderlust](https://wanderlust-5pen.onrender.com/listings)
 
