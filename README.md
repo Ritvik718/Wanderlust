@@ -39,7 +39,6 @@ This project is a web application designed for users to showcase their propertie
 - Node.js
 - Express.js
 - CSS
-- EJS (Embedded JavaScript)
 - MongoDB (Database)
 - Mapbox API (for mapping)
 - Cloudinary API (for image storage)
