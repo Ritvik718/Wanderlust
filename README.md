@@ -38,6 +38,7 @@ This project is a web application designed for users to showcase their propertie
 - JavaScript
 - Node.js
 - Express.js
+- EJS
 - CSS
 - MongoDB (Database)
 - Mapbox API (for mapping)
